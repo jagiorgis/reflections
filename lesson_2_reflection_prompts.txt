@@ -19,7 +19,7 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-	Diagrams make it easier to see the history of a given branch and also its relationship with other branches. The diagrams start with the oldest commit and progress towards the most recent commit, while also displaying other branches that were spun off from the branch in question.
+	Diagrams help to keep track of which branches contain which commits. The diagrams start with the oldest commit and progress towards the most recent commit, while also displaying other branches that were spun off from the branch in question.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
