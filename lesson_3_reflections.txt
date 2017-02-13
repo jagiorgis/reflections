@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+  When you are ready to sync your work with Github in order to share your work with a collaborator or simply showcase your work on your Github profile page.
